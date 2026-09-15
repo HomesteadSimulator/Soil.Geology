@@ -10,3 +10,4 @@ https://share.google/aimode/PcxBKN2Q98bkdqwzr
 # Reference.
 - [Determination of Sulfate Concentration in Soil: Depth of Sampling](https://www.researchgate.net/publication/233448817_Determination_of_Sulfate_Concentration_in_Soil_Depth_of_Sampling)
 - https://www.calciumproducts.com/sulfur-cycling-in-soils/
+- https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=3390&context=etd
