@@ -5,3 +5,5 @@ https://www.soildoctorconsulting.com/pro-tips/2020/4/21/chloride-amp-soil-health
 
 # Relation:
 ## Accumulates in Clay
+https://share.google/aimode/96VpsZ9QYNCQAhblK
+https://share.google/aimode/96VpsZ9QYNCQAhblK
