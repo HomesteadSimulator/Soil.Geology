@@ -17,6 +17,8 @@ https://share.google/aimode/96VpsZ9QYNCQAhblK
 quick chemical test
 https://share.google/aimode/tezlevbPKVWcU6UA6
 
+- [Yr 11 Analysis 5 - Anion tests (sulfates)](https://youtu.be/TZ4hA3bJ9yA)
+
 # Reference.
 - [Determination of Sulfate Concentration in Soil: Depth of Sampling](https://www.researchgate.net/publication/233448817_Determination_of_Sulfate_Concentration_in_Soil_Depth_of_Sampling)
 - https://www.calciumproducts.com/sulfur-cycling-in-soils/
