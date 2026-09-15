@@ -21,9 +21,11 @@ https://share.google/aimode/kYehjI8OWiYzlHnLQ
 grow crystals from the extract
 https://share.google/aimode/96VpsZ9QYNCQAhblK
 
+# Testing
 quick chemical test
 https://share.google/aimode/tezlevbPKVWcU6UA6
 
 ## Reference.
 - [Yr 11 Analysis 5 - Anion tests (sulfates)](https://youtu.be/TZ4hA3bJ9yA)
 - [Testing a solution for sulfate ions](https://youtu.be/ui6FLxQxxBM)
+- [A Level Chemistry Revision "Testing for Sulfate Ions"](https://youtu.be/WYVL4CNGj2A)
